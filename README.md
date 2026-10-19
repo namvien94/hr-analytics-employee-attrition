@@ -30,7 +30,7 @@ These findings suggest that HR should prioritize reviewing overtime expectations
 
 ### 1. Reduce overtime-related attrition
 
-Employees required to work overtime have a **30.5% attrition rate**, compared with **10.4%** among employees without overtime requirements, nearly three times higher.
+Employees required to work overtime have a **30.5% attrition rate**, compared with **10.4%** among employees without overtime requirements.
 
 This gap suggests that workload expectations may be an important retention risk worth investigating.
 
