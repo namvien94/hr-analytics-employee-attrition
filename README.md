@@ -30,7 +30,7 @@ These findings suggest that HR should prioritize reviewing overtime expectations
 
 ### 1. Reduce overtime-related attrition
 
-Employees required to work overtime have a **30.5% attrition rate**, compared with **10.4%** among employees without overtime requirements—nearly three times higher.
+Employees required to work overtime have a **30.5% attrition rate**, compared with **10.4%** among employees without overtime requirements, nearly three times higher.
 
 This gap suggests that workload expectations may be an important retention risk worth investigating.
 
@@ -50,11 +50,12 @@ This substantial difference suggests that frequent business travel may be associ
 
 ### 3. Strengthen retention during the first two years
 
-![Employee Performance Tracker](images/performance-tracker.png)
+![Employee Performance Tracker](images/performance-tracker1.png)
 
 Employees with **one year of tenure have the highest attrition rate at 34.5%**, followed by employees with less than one year at **31.6%**.
 
-High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity. The Performance Tracker provides an additional way to monitor individual satisfaction and review trends, although it does not establish the causes of early-tenure attrition.
+High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity. 
+The Performance Tracker provides an additional way to monitor individual satisfaction and review trends.
 
 **Recommended action:** Strengthen onboarding and introduce structured check-ins at 30, 90, and 180 days. Pair new hires with mentors and collect feedback to identify unmet expectations or workplace challenges before employees decide to leave.
 
@@ -91,8 +92,8 @@ These differences highlight opportunities to evaluate career progression and com
 **Tools:** Power BI, Power Query, DAX
 
 - **Data preparation:** Cleaned and transformed HR datasets using Power Query.
-- **Data modeling:** Built relationships between employee, performance, and lookup tables, including a dedicated date table.
+- **Data modeling:** Built a star-schema data model connecting employee and performance data with lookup tables, including a dedicated date table.
 - **DAX:** Created attrition, workforce, salary, and performance measures using various functions including `CALCULATE()` and `USERELATIONSHIP()`.
 - **Visualization:** Developed four interactive dashboard pages with slicers and tooltips.
 
-**Data source:** DataCamp's Atlas Labs HR dataset.
+**Data source:** DataCamp's Atlas Labs HR datasets.
