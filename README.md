@@ -16,11 +16,11 @@ This analysis examines workforce demographics, employee performance, and attriti
 
 Employee turnover is concentrated in specific workforce segments rather than distributed evenly across the organization.
 
-Employees required to work overtime have a **30.5% attrition rate**, nearly three times the **10.4%** rate among those without overtime requirements. 
+- Employees required to work overtime have a **30.5% attrition rate**, nearly three times the **10.4%** rate among those without overtime requirements. 
 
-Frequent travelers also experience higher attrition (**24.9% vs. 8.0%** for non-travelers).
+- Frequent travelers also experience higher attrition (**24.9% vs. 8.0%** for non-travelers).
 
-**Early employee tenure presents another major retention challenge.** Employees with one year of tenure have the highest attrition rate at **34.5%**, while Sales Representatives experience the highest job-role attrition at **39.8%**.
+- Early-tenure employees face the greatest attrition risk.
 
 These findings suggest that HR should prioritize reviewing overtime expectations, travel demands, early-tenure employee support, and retention challenges within high-turnover job roles.
 
@@ -94,6 +94,6 @@ These differences highlight opportunities to evaluate career progression and com
 - **Data preparation:** Cleaned and transformed HR datasets using Power Query.
 - **Data modeling:** Built a star-schema data model connecting employee and performance data with lookup tables, including a dedicated date table.
 - **DAX:** Created attrition, workforce, salary, and performance measures using various functions including `CALCULATE()` and `USERELATIONSHIP()`.
-- **Visualization:** Developed four interactive dashboard pages with slicers and tooltips.
+- **Visualization:** Developed four interactive report pages with slicers and tooltips.
 
 **Data source:** DataCamp's Atlas Labs HR datasets.
