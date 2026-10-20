@@ -16,7 +16,7 @@ This analysis explores workforce demographics, performance, and attrition patter
 
 Employee turnover is concentrated in specific workforce segments rather than distributed evenly across the organization.
 
-- Employees required to work overtime have a **30.5% attrition rate**, nearly three times the **10.4%** rate among those without overtime requirements. 
+- Employees required to work overtime have a **30.5% attrition rate**, nearly three times the **10.4%** rate among those without overtime. 
 
 - Frequent travelers also experience higher attrition (**24.9% vs. 8.0%** for non-travelers).
 
