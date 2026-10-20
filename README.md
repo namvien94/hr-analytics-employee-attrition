@@ -4,7 +4,7 @@
 
 **Where should Atlas Labs prioritize employee retention efforts to reduce turnover and maintain workforce stability?**
 
-Atlas Labs, a fictional software company, faces an overall employee attrition rate of **16.1%**, with substantially higher turnover among certain job roles and employees working overtime or traveling frequently.
+Atlas Labs, a fictional software company, faces an overall employee attrition rate of **16.1%**, with substantially higher turnover among certain job roles and employees working overtime or traveling frequently. High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity.
 
 This analysis examines workforce demographics, employee performance, and attrition patterns to identify high-risk employee groups and help HR leadership prioritize targeted, evidence-based retention strategies.
 
@@ -54,8 +54,7 @@ This substantial difference suggests that frequent business travel may be associ
 
 Employees with **one year of tenure have the highest attrition rate at 34.5%**, followed by employees with less than one year at **31.6%**.
 
-High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity.   
-The Performance Tracker provides an additional way to monitor individual satisfaction and review trends.
+The Performance Tracker allows managers to use an employee slicer to monitor individual performance and satisfaction trends, helping spot potential issues early.
 
 **Recommended action:** Strengthen onboarding and introduce structured check-ins at 30, 90, and 180 days. Pair new hires with mentors and collect feedback to identify unmet expectations or workplace challenges before employees decide to leave.
 
