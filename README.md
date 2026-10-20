@@ -26,7 +26,7 @@ These findings suggest that HR should prioritize reviewing overtime expectations
 
 ## Recommended Actions
 
-![Employee Attrition Dashboard](images/attrition.png)
+![Employee Attrition Dashboard](images/attrition1.png)
 
 ### 1. Reduce overtime-related attrition
 
@@ -89,8 +89,10 @@ Average salaries vary by ethnicity: **White employees earn $115K**, compared wit
 **Tools:** Power BI, Power Query, DAX
 
 - **Data preparation:** Cleaned and transformed HR datasets using Power Query.
-- **Data modeling:** Built a star-schema data model connecting employee and performance data with lookup tables, including a dedicated date table.
+- **Data modeling:** Built a relational data model connecting employee and performance data with lookup tables, including a dedicated date table.
 - **DAX:** Created attrition, workforce, salary, and performance measures using various functions including `CALCULATE()` and `USERELATIONSHIP()`.
 - **Visualization:** Developed four interactive report pages with slicers and tooltips.
+
+![Data Model](images/data-model.png)
 
 **Data source:** DataCamp's Atlas Labs HR datasets.
