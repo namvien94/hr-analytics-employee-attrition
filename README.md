@@ -54,7 +54,7 @@ This substantial difference suggests that frequent business travel may be associ
 
 Employees with **one year of tenure have the highest attrition rate at 34.5%**, followed by employees with less than one year at **31.6%**.
 
-High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity. 
+High turnover early in employment can increase replacement and onboarding costs while disrupting team productivity.   
 The Performance Tracker provides an additional way to monitor individual satisfaction and review trends.
 
 **Recommended action:** Strengthen onboarding and introduce structured check-ins at 30, 90, and 180 days. Pair new hires with mentors and collect feedback to identify unmet expectations or workplace challenges before employees decide to leave.
