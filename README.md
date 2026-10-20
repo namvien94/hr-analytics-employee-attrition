@@ -76,15 +76,13 @@ These differences suggest that retention challenges may vary significantly by jo
 
 ![Employee Demographics Dashboard](images/demographics.png)
 
-**Employees aged 20–29 account for nearly 60% of the workforce**, highlighting the importance of early-career development and long-term retention.
+**Employees aged 20–29 represent nearly 60% of the workforce**, emphasizing the need for early-career development and retention.
 
-Compensation also varies across ethnic groups. White employees represent the largest ethnic group and earn an average salary of approximately **$115K**, compared with **$110K for Asian employees** and **$106K for employees of mixed or multiple ethnic backgrounds**.
+Average salaries vary by ethnicity: **White employees earn $115K**, compared with **$110K for Asian employees** and **$106K for employees of mixed or multiple ethnic backgrounds**. These differences warrant further review but do not necessarily indicate pay inequity.
 
-These differences highlight opportunities to evaluate career progression and compensation practices, although salary differences alone do not establish inequity.
+**Recommended action:** Expand mentorship and career development opportunities. Review compensation across comparable roles, experience levels, and seniority to identify potential pay disparities.
 
-**Recommended action:** Expand mentorship, professional development, and internal career advancement opportunities for early-career employees. Conduct compensation equity reviews across comparable job roles, experience levels, and seniority to identify unexplained pay disparities.
-
-**Measure success:** Track employee participation in development programs, internal promotion rates, early-career retention, and adjusted compensation gaps across demographic groups.
+**Measure success:** Track development participation, promotions, early-career retention, and adjusted pay gaps.
 
 ## How I Built It
 
